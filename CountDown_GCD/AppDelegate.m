@@ -4,7 +4,7 @@
 //
 //  Created by Apple on 2019/8/31.
 //  Copyright © 2019 Apple. All rights reserved.
-//
+//倒计时封装，可用于抽奖，活动，剩余时间
 
 #import "AppDelegate.h"
 
